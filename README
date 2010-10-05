@@ -1,0 +1,6 @@
+ psqlsh
+
+A shell frontend of psql. This module is purposed to execute .sql file from
+shell interpreter.
+
+2010 Hitoshi Harada
